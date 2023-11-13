@@ -4,7 +4,7 @@ public class PerkenalanDiri {
 
   public static void main(String[] args) {
 
-    String[] hobies = {"Bermain Game","Travelling","Memasak"};
+    String[] hobies = {"Berenang","Travelling"};
 
     String nama = "Sandi Winata";
     String prodi = "Ilmu Komputer";
