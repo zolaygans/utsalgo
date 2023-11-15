@@ -9,7 +9,7 @@ public class PerkenalanDiri {
     
     String prodi = "Ilmu Komputer";
         String nim = "I.2310247";
-        String fakultas = "FILKOM";
+        String kampus = "Djuanda";
         String hobi = "Berenang";
 
         System.out.println("Assalamualikum Wr. Wb.");
@@ -20,7 +20,7 @@ public class PerkenalanDiri {
         System.out.println("Tinggi badan saya " + tinggiBadan + " cm");
         System.out.println("Hobi saya " + hobi);
         System.out.println("Saya adalah mahasiswa " + prodi + " dengan NIM " + nim);
-        System.out.println("di Fakultas " + fakultas);
+        System.out.println("di Universitas " + kampus);
 
     }
 
